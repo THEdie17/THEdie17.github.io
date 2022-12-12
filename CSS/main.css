@@ -183,6 +183,17 @@ iframe:hover{
   transition: 0.3s;
   border-color: #9dbfdc;
 }
+
+#exception{
+  width: 43%;
+  margin-left: 20%;
+  border: solid 3px grey;
+}
+#exception:hover{
+  border-radius: 5%;
+  transition: 0.3s;
+  border-color: #9dbfdc;
+}
 /**************************** footer ***********************************/
 footer{
   background-image: url(../Fotos/index.jpeg);
